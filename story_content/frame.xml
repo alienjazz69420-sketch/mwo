@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Mwo 22 web" />
+              <option name="title_text" value="Mwo 3rd build" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1260,8 +1260,9 @@
         <slidelink slideid="_player.6kRpkUMuGe3" displaytext="The Opening" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6kRpkUMuGe3.6fBdOb38zYG" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6kRpkUMuGe3.6oM3eUelaR8" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6kRpkUMuGe3.6J9VK5EarJY" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6kRpkUMuGe3.6oM3eUelaR8" displaytext="BEginning hub" expand="false" type="slide" />
+            <slidelink slideid="_player.6kRpkUMuGe3.5WTja9ztzoL" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6kRpkUMuGe3.6J9VK5EarJY" displaytext="LEcture" expand="false" type="slide" />
             <slidelink slideid="_player.6kRpkUMuGe3.6L6LnTYQiZ8" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6kRpkUMuGe3.5ol4CjyJlZA" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6kRpkUMuGe3.5fS5CeI4FUd" displaytext="Untitled Slide" expand="false" type="slide" />
@@ -1270,10 +1271,13 @@
         </slidelink>
         <slidelink slideid="_player.6nUEqcHlnkq" displaytext="Easy mode" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6nUEqcHlnkq.5ZzioLDws7m" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6nUEqcHlnkq.6QDcT063CCm" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6nUEqcHlnkq.6MbEuFRFyQg" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6nUEqcHlnkq.6Hn3Azu3GU5" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nUEqcHlnkq.5ZzioLDws7m" displaytext="Act 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6nUEqcHlnkq.6QDcT063CCm" displaytext="Act 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6nUEqcHlnkq.5nBXBk6Lkuh" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6nUEqcHlnkq.6MbEuFRFyQg" displaytext="Act 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6nUEqcHlnkq.6aBfLy18J2k" displaytext="Text Entry" expand="false" type="slide" />
+            <slidelink slideid="_player.6nUEqcHlnkq.5hLsBfoxxmM" displaytext="A phone bought for ₱8,000 is sold for ₱7,000. " expand="false" type="slide" />
+            <slidelink slideid="_player.6nUEqcHlnkq.6Hn3Azu3GU5" displaytext="Act 4" expand="false" type="slide" />
             <slidelink slideid="_player.6nUEqcHlnkq.6gcOjf1IHwQ" displaytext="Text Entry" expand="false" type="slide" />
             <slidelink slideid="_player.6nUEqcHlnkq.5nan2xHJrmE" displaytext="Text Entry" expand="false" type="slide" />
             <slidelink slideid="_player.6nUEqcHlnkq.6bFWIMNK2Gz" displaytext="Draw from activity 3" expand="false" type="slide" />
